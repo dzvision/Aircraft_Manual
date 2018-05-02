@@ -1,6 +1,6 @@
 # Aircraft Manual
 
-Procedure of operating aircraft
+Procedure for operating aircraft (How To)
 
 This is a user guide for beginners.
 Author is also a beginners.
